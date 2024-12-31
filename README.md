@@ -71,7 +71,7 @@ endmodule
 
 **TIMING DIAGRAM FOR FLIP FLOP:**
 
-<img width="959" alt="exp 9 wf" src="https://github.com/user-attachments/assets/e16c0cce-c0bd-4645-b600-9cb8060001c1" />
+![WhatsApp Image 2024-12-31 at 2 43 03 PM](https://github.com/user-attachments/assets/73a065d1-3987-4852-95ed-a81740d97dc2)
 
 
 **RESULT:**
